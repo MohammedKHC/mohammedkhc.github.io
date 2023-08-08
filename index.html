@@ -8,6 +8,11 @@
   <body>
     <main>
         <h1>Welcome to My Website</h1>  
+      {% for page in site.data.default_pages %}
+  <li>
+      {{ page.page }} {{ page.name }} {{ page.name_ar }}
+   </li>
+{% endfor %}
     </main>
   </body>
 </html>
