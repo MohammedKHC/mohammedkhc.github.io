@@ -1,0 +1,15 @@
+- page: ''
+  name: Home
+  ar_name: الرئيسية
+- page: projects
+  name: My Projects
+  ar_name: أعمالي
+- page: contact-us
+  name: Contact Us
+  ar_name: إتصل بنا
+- page: privacy-policy
+  name: Privacy Policy
+  ar_name: أعمالي
+- page: about-us
+  name: About Us
+  ar_name: من نحن
